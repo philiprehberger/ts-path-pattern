@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { match, compile, test as testPath, rank, toRegex } from '../dist/index.js';
+import { match, compile, test as testPath, rank, toRegex } from '../../dist/index.js';
 
 describe('match', () => {
   it('should match a static path', () => {

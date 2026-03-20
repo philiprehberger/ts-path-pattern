@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@philiprehberger/path-pattern)](https://www.npmjs.com/package/@philiprehberger/path-pattern)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-URL path pattern matching and parameter extraction.
+URL path pattern matching and parameter extraction
 
 ## Requirements
 
