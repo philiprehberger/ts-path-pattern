@@ -1,0 +1,58 @@
+{
+  "name": "@philiprehberger/path-pattern",
+  "version": "0.1.0",
+  "description": "URL path pattern matching and parameter extraction",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test"
+  },
+  "keywords": [
+    "path",
+    "pattern",
+    "route",
+    "match",
+    "params",
+    "url",
+    "router"
+  ],
+  "author": "Philip Rehberger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiprehberger/ts-path-pattern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philiprehberger/ts-path-pattern/issues"
+  },
+  "homepage": "https://github.com/philiprehberger/ts-path-pattern#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^22.0.0"
+  }
+}
