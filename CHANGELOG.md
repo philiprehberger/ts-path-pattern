@@ -1,18 +1,18 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.3
+
+- Standardize README badges and CHANGELOG formatting
 
 ## 0.1.2
 
 - Standardize package.json configuration
 
-## [0.1.1] - 2026-03-20
+## 0.1.1
 
 - Add CI workflow
 
-## [0.1.0] - 2026-03-20
-
-### Added
+## 0.1.0
 
 - `match(pattern, path)` for path matching with `:param` and `*wildcard` extraction
 - `compile(pattern, params)` for building paths from patterns and parameter values
