@@ -1,7 +1,8 @@
 # @philiprehberger/path-pattern
 
+[![CI](https://github.com/philiprehberger/ts-path-pattern/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-path-pattern/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@philiprehberger/path-pattern)](https://www.npmjs.com/package/@philiprehberger/path-pattern)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 URL path pattern matching and parameter extraction
 
