@@ -1,9 +1,8 @@
 # @philiprehberger/path-pattern
 
-[![CI](https://github.com/philiprehberger/ts-path-pattern/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-path-pattern/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/path-pattern/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/path-pattern/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/path-pattern.svg)](https://www.npmjs.com/package/@philiprehberger/path-pattern)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-path-pattern)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/path-pattern)](https://github.com/philiprehberger/path-pattern/commits/main)
 
 URL path pattern matching and parameter extraction
 
@@ -94,6 +93,24 @@ npm run typecheck
 npm test
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/path-pattern)
+
+🐛 [Report issues](https://github.com/philiprehberger/path-pattern/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/path-pattern/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
