@@ -1,8 +1,8 @@
 # @philiprehberger/path-pattern
 
-[![CI](https://github.com/philiprehberger/path-pattern/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/path-pattern/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-path-pattern/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-path-pattern/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/path-pattern.svg)](https://www.npmjs.com/package/@philiprehberger/path-pattern)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/path-pattern)](https://github.com/philiprehberger/path-pattern/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-path-pattern)](https://github.com/philiprehberger/ts-path-pattern/commits/main)
 
 URL path pattern matching and parameter extraction
 
@@ -97,11 +97,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/path-pattern)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-path-pattern)
 
-🐛 [Report issues](https://github.com/philiprehberger/path-pattern/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-path-pattern/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/path-pattern/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-path-pattern/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
